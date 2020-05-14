@@ -1,7 +1,7 @@
 # Nuxt-todo-list
 ## Please following the handbook
-* [Fire Power Digital.pdf]()
-* [Process record.zip]()
+* [Fire Power Digital](/process_handbook/Fire%20Power%20Digital.pdf)
+* [Process record](/process_handbook/Recording_20200514_1117.mht)
 
 ## Build Setup
 
