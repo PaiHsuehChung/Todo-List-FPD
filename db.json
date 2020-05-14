@@ -1,8 +1,16 @@
 {
+<<<<<<< HEAD
   "contact": [
     {
-      "todo_list": "Workout-edit",
+      "todo_list": "create function (Edit function)",
+      "id": 1
+    },
+    {
+      "todo_list": "Add another function",
       "id": 2
     }
   ]
+=======
+  "contact": []
+>>>>>>> 1d41d1210eec5bdec9eb3856929693c9bad712b7
 }
